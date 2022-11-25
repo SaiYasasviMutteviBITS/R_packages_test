@@ -8,7 +8,7 @@
 #'
 #Function to find sum of squares of deviation from mean
 
-SSD <- function(vector1){
+SSDM <- function(vector1){
   su=sum(vector1**2)
   me=mean(vector1)
   n=length(vector1)
