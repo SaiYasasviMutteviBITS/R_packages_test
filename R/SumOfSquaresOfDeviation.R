@@ -19,5 +19,5 @@ SSDM <- function(vector1){
 #Example
 #SSD(c(1,2,3,4,5))
 #Answer -  10
-SSD(c(1,2,3,4))
+#SSD(c(1,2,3,4))
 
